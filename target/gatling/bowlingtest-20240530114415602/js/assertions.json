@@ -1,0 +1,10 @@
+{
+  "simulation": "tests.bowlingTest",
+  "simulationId": "bowlingtest-20240530114415602",
+  "start": 1717069456672,
+  "description": "",
+  "scenarios": ["ComputerSearch"],
+  "assertions": [
+
+  ]
+}
